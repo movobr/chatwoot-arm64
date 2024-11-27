@@ -10,4 +10,6 @@ and finnaly:
 
 $ docker compose up -d
 
+Access: http://localhost:3000 or http://127.0.0.1:3000
+
 Reference: https://www.chatwoot.com/docs/self-hosted/deployment/docker
