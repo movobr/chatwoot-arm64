@@ -1,5 +1,5 @@
 services:
-  chatwoot:
+  chatwoot-app:
     container_name: chatwoot-app
     env_file: .env
     image: fexrizzieri/chatwoot-arm64:3.15.0-arm64
